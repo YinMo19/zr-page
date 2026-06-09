@@ -30,7 +30,7 @@ function App() {
         </a>
         <nav aria-label="Site navigation">
           <a href="#privacy">Privacy</a>
-          <a href="mailto:me@yinmo19.top">Contact</a>
+          <a href="/support/">Support</a>
         </nav>
       </header>
 

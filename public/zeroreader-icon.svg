@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>ZeroReader App Icon</title>
+  <desc>Minimal app icon combining a page and the number zero.</desc>
+
+  <rect x="0" y="0" width="1024" height="1024" fill="#155A4F"/>
+
+  <rect x="244" y="128" width="536" height="768" rx="112" fill="#F4E7CC"/>
+
+  <path d="M634 128H780V274L634 128Z" fill="#E24C38"/>
+  <path d="M634 128L780 274" stroke="#155A4F" stroke-width="18" stroke-linecap="round"/>
+
+  <rect x="404" y="296" width="216" height="432" rx="108" fill="#155A4F"/>
+</svg>
